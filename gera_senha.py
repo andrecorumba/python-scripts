@@ -5,7 +5,7 @@ import pandas as pd
 from datetime import date
 import sys
 
-tamanho = 16
+tamanho = 19
 valores = string.ascii_lowercase + string.digits + string.punctuation + string.ascii_uppercase
 senha = ''
 data_atual = date.today()
